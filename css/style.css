@@ -1221,7 +1221,7 @@ p {
 /* Testimonial */
 
 .testimonial {
-    background: linear-gradient(rgba(2, 34, 2, 0.703), #1c1b1b), url(../images/football.jpg);
+    background: linear-gradient(rgba(2, 34, 2, 0.703), #1c1b1b), url(../images/clubs/football.jpg);
     width: 100%;
     min-height: 90vh;
     background-position: center;
